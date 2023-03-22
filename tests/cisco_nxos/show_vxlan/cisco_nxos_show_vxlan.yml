@@ -1,0 +1,12 @@
+---
+parsed_sample:
+  - vlan: '3'
+    vni: '30'
+  - vlan: '4'
+    vni: '5555'
+  - vlan: '100'
+    vni: '600'
+  - vlan: '777'
+    vni: '4096'
+  - vlan: '1000'
+    vni: '100000'

@@ -1,0 +1,5 @@
+Value VLAN (\d+)
+Value VNSEGMENT (\d+)
+
+Start
+  ^${VLAN}\s+${VNSEGMENT}*$$ -> Record
